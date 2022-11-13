@@ -27,7 +27,7 @@ git add + nome da página  Incluir uma  página especifica no commit
 git add contato.html
 ## <pre><b>📝Ramificações e Merge</pre>
 * Main  Onde fica o Projeto principal
-* Branch É uma outra ramificação, criada para colocar o código de desenvolvimento, para não mexer no código principal. Que ficará na branch main.
+* Branch É uma outra ramificação, criada para colocar o código de desenvolvimento, para não mexer no código principal. Que ficará na branch main.
 Com o código abaixo criamos a branch desenvolvimento
 * git checkout -b desenvolvimento
 Para voltar para  branch main  é só digitar o comando abaixo.
@@ -35,7 +35,7 @@ git switch main
 * Merge É Pegar tudo que está em determinada branch e mandar para a branch main. 
 O comando git branch nós permitir visualizar todas as branches 
 * git log –oneline conseguimos visualizar o último push e visualizar o número identificador  
-Então rodando o comando git merge  com o nome da branch que quero juntar.
+* git merge  com o nome da branch que quero juntar.
 Estamos trabalhando com duas branches: a branch main e a branch title. Fizemos várias alterações na branch title, mas, agora, queremos trazer tudo o que está na title para a main. Como podemos fazer isso?
-Utilizamos os comandos: git switch main e git merge title.
-Desta forma com o git switch voltamos pra branch principal e depois fazemos o merge colocando tudo o que estava na branch title na branch main.
+> Utilizamos os comandos: git switch main e git merge title.
+ * git switch voltamos pra branch principal e depois fazemos o merge colocando tudo o que estava na branch title na branch main.
