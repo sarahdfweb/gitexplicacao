@@ -11,7 +11,7 @@ Exemplo.: Em uma equipe de desenvolvimento os desenvolvedores estão trabalhando
  * Git pull --> Usado para Fazer atualização (Se acaso outra pessoa tiver feito alguma alteração)ele informara qual arquivo que sofreu alteração e qual alteração foi feita.
  * Git push --> É  usado para enviar as alterações que foram feitas no seu repositório local para um repositório remoto.
 git add .
- * git commit -m "mensagem de commit"
+ * git commit -m --> "mensagem de commit"
  * git push origin main
 Precisamos adicionar os arquivos com o git add e depois fazer o commit com git commit. Assim é possível enviar/empurrar as alterações para o repositório remoto utilizando o git push origin main.
 ![image](https://user-images.githubusercontent.com/87348787/201507069-b0e5ea5f-c740-43b4-b3e3-6af7ba6cf5e1.png)
