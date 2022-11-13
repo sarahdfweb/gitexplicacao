@@ -37,5 +37,3 @@ O comando git branch nós permitir visualizar todas as branches
 * git log –oneline conseguimos visualizar o último push e visualizar o número identificador  
 * git merge  com o nome da branch que quero juntar.
 Estamos trabalhando com duas branches: a branch main e a branch title. Fizemos várias alterações na branch title, mas, agora, queremos trazer tudo o que está na title para a main. Como podemos fazer isso?
-> Utilizamos os comandos: git switch main e git merge title.
- * git switch voltamos pra branch principal e depois fazemos o merge colocando tudo o que estava na branch title na branch main.
