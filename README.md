@@ -34,8 +34,8 @@ Precisamos adicionar os arquivos com o git add e depois fazer o commit com git c
 ![image](https://user-images.githubusercontent.com/87348787/201507466-1f3b24c5-a9ae-42dd-b99b-5c3c2a0dae4f.png)
 
 ## <pre><b>📝Ramificações e Merge</pre>
-* Main  Onde fica o Projeto principal
-* Branch É uma outra ramificação, criada para colocar o código de desenvolvimento, para não mexer no código principal. Que ficará na branch main.
+* Main --> Onde fica o Projeto principal
+* Branch -->  É uma outra ramificação, criada para colocar o código de desenvolvimento, para não mexer no código principal. Que ficará na branch main.
 > Com o código abaixo criamos a branch desenvolvimento
 ![image](https://user-images.githubusercontent.com/87348787/201507567-c1d8c8a9-5f60-4663-bac1-49ef11081e54.png)
 
